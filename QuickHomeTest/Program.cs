@@ -12,6 +12,7 @@ namespace QuickHomeTest
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("My PC is all set to work from");
+            Console.ReadKey(true);
         }
     }
 }
